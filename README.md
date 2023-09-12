@@ -1,4 +1,4 @@
-# packer-crash-course-by-sandip
+# packer-crash-course
 
 #Installations:
 https://developer.hashicorp.com/packer/downloads?product_intent=packer
